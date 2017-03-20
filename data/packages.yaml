@@ -62,7 +62,7 @@ aec5898e-b88c-11e6-ba85-95d1533d9a62:
 4ff0cb62-bc74-11e6-8b45-b8b81dd5d080:
   # TODO: how to change the headline only while behind a flag
   design:
-    theme: basic
+    theme: extra-wide
   tableOfContents:
     sequence: exact-order
     labelType: part-number
