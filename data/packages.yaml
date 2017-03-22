@@ -119,64 +119,64 @@ aec5898e-b88c-11e6-ba85-95d1533d9a62:
 
 #Animals: a photography special
 8f37f666-d203-11e6-b06b-680c49b4b4c0:
-	contains:
-		- {id: 8f37f666-d203-11e6-b06b-680c49b4b4c0}
-		- {id: 8dba07fc-d203-11e6-b06b-680c49b4b4c0}
-		- {id: d351de76-d2ca-11e6-b06b-680c49b4b4c0}
-		- {id: 853d15a4-c184-11e6-9bca-2b93a6856354}
-		- {id: 869c8c04-c184-11e6-9bca-2b93a6856354}
-		- {id: 909b5f16-d203-11e6-b06b-680c49b4b4c0}
+    contains:
+        - {id: 8f37f666-d203-11e6-b06b-680c49b4b4c0}
+        - {id: 8dba07fc-d203-11e6-b06b-680c49b4b4c0}
+        - {id: d351de76-d2ca-11e6-b06b-680c49b4b4c0}
+        - {id: 853d15a4-c184-11e6-9bca-2b93a6856354}
+        - {id: 869c8c04-c184-11e6-9bca-2b93a6856354}
+        - {id: 909b5f16-d203-11e6-b06b-680c49b4b4c0}
 
 #Brexit: in or out
 60547f1c-0e54-11e7-a88c-50ba212dce4d:
-	contains:
-		- {id: 70d0bfd8-d1b3-11e5-831d-09f7778e7377}
-		- {id: e90885d8-d3db-11e5-829b-8564e7528e54}
-		- {id: 807750a4-d984-11e5-98fd-06d75973fe09}
-		- {id: 202a60c0-cfd8-11e5-831d-09f7778e7377}
-		- {id: 8710df70-d49d-11e5-8887-98e7feb46f27}
-		- {id: 6e5737f6-defa-11e5-b67f-a61732c1d025}
-		- {id: 5db877f2-d0a9-11e5-831d-09f7778e7377}
+    contains:
+        - {id: 70d0bfd8-d1b3-11e5-831d-09f7778e7377}
+        - {id: e90885d8-d3db-11e5-829b-8564e7528e54}
+        - {id: 807750a4-d984-11e5-98fd-06d75973fe09}
+        - {id: 202a60c0-cfd8-11e5-831d-09f7778e7377}
+        - {id: 8710df70-d49d-11e5-8887-98e7feb46f27}
+        - {id: 6e5737f6-defa-11e5-b67f-a61732c1d025}
+        - {id: 5db877f2-d0a9-11e5-831d-09f7778e7377}
 
 # Doing Business in Austria
 524fe874-0324-11e7-ace0-1ce02ef0def9:
-	contains:
-		- {id: e26d3c84-8bad-11e6-8cb7-e7ada1d123b1}
-		- {id: e9c1897c-8bad-11e6-8cb7-e7ada1d123b1}
-		- {id: ffa10ed8-8bea-11e6-8cb7-e7ada1d123b1}
-		- {id: e50b7280-8bad-11e6-8cb7-e7ada1d123b1}
-		- {id: fc68bb26-8bea-11e6-8cb7-e7ada1d123b1}
-		- {id: 02d79824-8beb-11e6-8cb7-e7ada1d123b1}
-		- {id: 04310fb6-9474-11e6-a1dc-bdf38d484582}
-		- {id: f1bd4d80-8baf-11e6-8cb7-e7ada1d123b1}
-		- {id: ed61e1a0-669a-11e5-97d0-1456a776a4f5}
-		- {id: ed75e196-669a-11e5-97d0-1456a776a4f5}
-		- {id: ed30c46c-669a-11e5-97d0-1456a776a4f5}
-		- {id: ecf6acdc-669a-11e5-97d0-1456a776a4f5}
-		- {id: ed4d1400-669a-11e5-97d0-1456a776a4f5}
-		- {id: ed8b5a4e-669a-11e5-97d0-1456a776a4f5}
-		- {id: ecd23bf4-669a-11e5-97d0-1456a776a4f5}
+    contains:
+        - {id: e26d3c84-8bad-11e6-8cb7-e7ada1d123b1}
+        - {id: e9c1897c-8bad-11e6-8cb7-e7ada1d123b1}
+        - {id: ffa10ed8-8bea-11e6-8cb7-e7ada1d123b1}
+        - {id: e50b7280-8bad-11e6-8cb7-e7ada1d123b1}
+        - {id: fc68bb26-8bea-11e6-8cb7-e7ada1d123b1}
+        - {id: 02d79824-8beb-11e6-8cb7-e7ada1d123b1}
+        - {id: 04310fb6-9474-11e6-a1dc-bdf38d484582}
+        - {id: f1bd4d80-8baf-11e6-8cb7-e7ada1d123b1}
+        - {id: ed61e1a0-669a-11e5-97d0-1456a776a4f5}
+        - {id: ed75e196-669a-11e5-97d0-1456a776a4f5}
+        - {id: ed30c46c-669a-11e5-97d0-1456a776a4f5}
+        - {id: ecf6acdc-669a-11e5-97d0-1456a776a4f5}
+        - {id: ed4d1400-669a-11e5-97d0-1456a776a4f5}
+        - {id: ed8b5a4e-669a-11e5-97d0-1456a776a4f5}
+        - {id: ecd23bf4-669a-11e5-97d0-1456a776a4f5}
 
 #Age of the ETFs
 de4d756c-04be-11e7-ace0-1ce02ef0def9:
-	contains:
-	- {id: d4c21f40-c6dc-11e6-8f29-9445cac8966f}
-	- {id: fd12f22a-c692-11e6-9043-7e34c07b46ef}
-	- {id: 93d12dbc-bc8e-11e6-8b45-b8b81dd5d080}
-	- {id: aed91bfe-c64f-11e6-9043-7e34c07b46ef}
-	- {id: e47f1d6e-be46-11e6-8b45-b8b81dd5d080}
-	- {id: d26aae58-bbc2-11e6-8b45-b8b81dd5d080}
-	- {id: 7b8f11f4-c01e-11e6-9bca-2b93a6856354}
-	- {id: 692c982c-bd78-11e6-8b45-b8b81dd5d080}
-	- {id: 0f582a8c-bf21-11e6-81c2-f57d90f6741a}
-	- {id: f406d50c-bbcf-11e6-8b45-b8b81dd5d080}
-	- {id: 00a1c748-be1b-11e6-8b45-b8b81dd5d080}
-	- {id: 59739d3a-bd60-11e6-8b45-b8b81dd5d080}
-	- {id: 885b3eba-bc9c-11e6-8b45-b8b81dd5d080}
-	- {id: aa4e3be2-baff-11e6-8b45-b8b81dd5d080}
-	- {id: 12dcd476-bc4e-11e6-8b45-b8b81dd5d080}
-	- {id: 2962333e-baec-11e6-8b45-b8b81dd5d080}
-	- {id: cf8aecc0-badc-11e6-8b45-b8b81dd5d080}
-	- {id: cf69b382-bade-11e6-8b45-b8b81dd5d080}
-	- {id: a54e75d4-b7f9-11e6-ba85-95d1533d9a62}
-	- {id: df1d95ec-bac4-11e6-8b45-b8b81dd5d080}
+    contains:
+    - {id: d4c21f40-c6dc-11e6-8f29-9445cac8966f}
+    - {id: fd12f22a-c692-11e6-9043-7e34c07b46ef}
+    - {id: 93d12dbc-bc8e-11e6-8b45-b8b81dd5d080}
+    - {id: aed91bfe-c64f-11e6-9043-7e34c07b46ef}
+    - {id: e47f1d6e-be46-11e6-8b45-b8b81dd5d080}
+    - {id: d26aae58-bbc2-11e6-8b45-b8b81dd5d080}
+    - {id: 7b8f11f4-c01e-11e6-9bca-2b93a6856354}
+    - {id: 692c982c-bd78-11e6-8b45-b8b81dd5d080}
+    - {id: 0f582a8c-bf21-11e6-81c2-f57d90f6741a}
+    - {id: f406d50c-bbcf-11e6-8b45-b8b81dd5d080}
+    - {id: 00a1c748-be1b-11e6-8b45-b8b81dd5d080}
+    - {id: 59739d3a-bd60-11e6-8b45-b8b81dd5d080}
+    - {id: 885b3eba-bc9c-11e6-8b45-b8b81dd5d080}
+    - {id: aa4e3be2-baff-11e6-8b45-b8b81dd5d080}
+    - {id: 12dcd476-bc4e-11e6-8b45-b8b81dd5d080}
+    - {id: 2962333e-baec-11e6-8b45-b8b81dd5d080}
+    - {id: cf8aecc0-badc-11e6-8b45-b8b81dd5d080}
+    - {id: cf69b382-bade-11e6-8b45-b8b81dd5d080}
+    - {id: a54e75d4-b7f9-11e6-ba85-95d1533d9a62}
+    - {id: df1d95ec-bac4-11e6-8b45-b8b81dd5d080}
