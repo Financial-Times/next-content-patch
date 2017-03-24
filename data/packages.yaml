@@ -106,16 +106,6 @@ aec5898e-b88c-11e6-ba85-95d1533d9a62:
 #The following packages already exist in methode, we just need to fill in contains
 # Xi's China
 8b4d2118-0e51-11e7-a88c-50ba212dce4d:
-  design:
-    theme: extra
-  tableOfContents:
-    sequence: exact-order
-    labelType: part-number
-    displayIntroduction: false
-  contains:
-    - {id: 57371736-4b69-11e6-88c5-db83e98a590a} # The rise of party politics
-    - {id: dde0af68-4db2-11e6-88c5-db83e98a590a} # Command and control
-    - {id: ccd94b46-4db5-11e6-88c5-db83e98a590a} # Smothering dissent
 
 #Animals: a photography special
 b2050c06-0ee4-11e7-b030-768954394623:
