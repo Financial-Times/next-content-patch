@@ -43,33 +43,6 @@ aec5898e-b88c-11e6-ba85-95d1533d9a62:
     - {id: 503fb2ec-b826-11e6-ba85-95d1533d9a62, title: Gardening} # Gardening
     - {id: 0447a2b4-b826-11e6-ba85-95d1533d9a62, title: Fashion} # Fashion
 
-# Doing business in Greece
-5c3cae78-dbef-11e6-9d7c-be108f1c1dce:
-  design:
-    theme: special-report
-  tableOfContents:
-    sequence: none
-    labelType: none
-    displayIntroduction: false
-  leadImages:
-    - {ratio: 1, width: 2612, height: 2612, id: http://api.ft.com/content/b84610a0-fcf2-11e6-8d8e-a5e3738f9ae4, type: square}
-    - {ratio: 1.7777, width: 2048, height: 1152, id: http://api.ft.com/content/b9c980ba-fcf2-11e6-8d8e-a5e3738f9ae4, type: standard}
-  description: >
-    From airports to utilities, foreign investors are buying assets being
-    privatised by Alexis Tsipras’ leftwing government. While politicians
-    and creditors wrangle over the terms of Greece’s €86bn bailout, businesses
-    and entrepreneurs are adapting to new realities and opportunities
-  contains:
-    - {id: e6d0cd70-b724-11e6-961e-a1acd97f622d}
-    - {id: 063f2d4e-b727-11e6-961e-a1acd97f622d}
-    - {id: ea01d1e2-b724-11e6-961e-a1acd97f622d}
-    - {id: 128303aa-b727-11e6-961e-a1acd97f622d}
-    - {id: 436b20f8-b725-11e6-961e-a1acd97f622d}
-    - {id: 04084f5e-b729-11e6-961e-a1acd97f622d}
-    - {id: ed349728-b724-11e6-961e-a1acd97f622d}
-    - {id: 0c1614a8-b727-11e6-961e-a1acd97f622d}
-    - {id: 08db5474-b727-11e6-961e-a1acd97f622d}
-
 # Women of the year 2016
 4ff0cb62-bc74-11e6-8b45-b8b81dd5d080:
   # TODO: how to change the headline only while behind a flag
