@@ -73,22 +73,7 @@ aec5898e-b88c-11e6-ba85-95d1533d9a62:
     - {id : a5b907be-bc09-11e6-8b45-b8b81dd5d080, title: Park Geun-hye} # Park Geun-hye
     - {id : 3088a9c0-bc06-11e6-8b45-b8b81dd5d080, title: Rahaf} # Rahaf
     - {id : 713f2c00-bc10-11e6-8b45-b8b81dd5d080, title: Sushma Swaraj} # Sushma Swaraj
-    - {id : 67883ebc-bc11-11e6-8b45-b8b81dd5d080, title: Kellyanne Conway} # Kellyanne Conway
-
-
-#Animals: a photography special
-b2050c06-0ee4-11e7-b030-768954394623:
-    contains:
-        - {id: 8f37f666-d203-11e6-b06b-680c49b4b4c0}
-        - {id: 8dba07fc-d203-11e6-b06b-680c49b4b4c0}
-        - {id: d351de76-d2ca-11e6-b06b-680c49b4b4c0}
-        - {id: 853d15a4-c184-11e6-9bca-2b93a6856354}
-        - {id: 869c8c04-c184-11e6-9bca-2b93a6856354}
-        - {id: 909b5f16-d203-11e6-b06b-680c49b4b4c0}
-        - {id: aeb23f84-d2ca-11e6-b06b-680c49b4b4c0}
-        - {id: d4efba32-d2ca-11e6-b06b-680c49b4b4c0}
-        - {id: c65793a0-d2ca-11e6-b06b-680c49b4b4c0}
-        
+    - {id : 67883ebc-bc11-11e6-8b45-b8b81dd5d080, title: Kellyanne Conway} # Kellyanne Conway        
 
 #Brexit: in or out
 60547f1c-0e54-11e7-a88c-50ba212dce4d:
